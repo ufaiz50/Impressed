@@ -989,19 +989,17 @@ body {
 /* magic word */
 
 .mv-svg-title {
-  left: 58%;
-  max-width: 80%;
   position: absolute;
   top: 50%;
+  left: 50%;
   transform: translate(-50%, -50%);
-  width: 560px;
+  width: 360px;
   z-index: 9999;
 }
 
 @media screen and (max-width: 768px) {
     .mv-svg-title {
-        left: 70%;
-        width: 100%;
+      width: 230px;
     }
 }
 .mv-svg-title .text-path {
