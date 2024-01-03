@@ -1001,6 +1001,7 @@ body {
 @media screen and (max-width: 768px) {
     .mv-svg-title {
         left: 70%;
+        width: 100%;
     }
 }
 .mv-svg-title .text-path {
