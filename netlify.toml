@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/albums"
+to = "/albums/index.html"
+status = 200
